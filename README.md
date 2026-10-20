@@ -35,3 +35,4 @@ Los tickets, requisitos de aceptación, bitácora individual y protocolo de uso 
 
 No copiar el código a asistentes públicos sin permiso. Los datos actuales son ficticios, pero se simulan los controles de confidencialidad de una empresa real.
 # Entregra-del-proyecto-NextSoft
+# Entregra-del-proyecto-NextSoft
